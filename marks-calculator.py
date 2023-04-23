@@ -57,7 +57,7 @@ else:
     print("Total Marks:",total_Marks)
     print("Percentage:",int(total_percentage),"%")
     print("Status:","(FAIL)")
-    print("Hey,",Examiner_Name,"contact your school because you are - FAIL")
+    print("Hey,",Examiner_Name,"Contact your school because you are - FAIL")
     print("Grade:",grade)
     print()
 
